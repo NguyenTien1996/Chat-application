@@ -43,7 +43,7 @@ const ChatFeed = (props) => {
         })
     }
     renderMessage()
-    if(!chat) return 'Loading...';
+    if(!chat) return 'Loading... tutu';
 
     return(
         <div className="chat-feed">
