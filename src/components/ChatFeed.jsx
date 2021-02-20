@@ -43,7 +43,7 @@ const ChatFeed = (props) => {
         })
     }
     renderMessage()
-    if(!chat) return 'Loading... tutuunjsndsja';
+    if(!chat) return 'Loading... Cai gi da thay doi';
 
     return(
         <div className="chat-feed">
